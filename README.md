@@ -4,6 +4,8 @@
 
 Esse projeto é de uma clínica de pets. O objetivo central desse projeto fazer um layout simples e eficiente, utilizando apenas html e css na sua confecção.
 
+#### Acessar site: *https://cadu06.github.io/Projeto-clinica/*
+
 ## 📄 Seções
 
 - Home (Apresenta os serviços da clínica, destacando os principais recursos.)
